@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I’m Aniket Sinha<br><br>Backend Developer with hands-on experience in building secure and scalable<br>REST APIs using Node.js and Spring Boot.<br><br>🔹 Tech Stack:<br>- Node.js, Express.js<br>- Java, Spring Boot<br>- REST APIs<br>- MongoDB, MySQL<br>- JWT Authentication<br>- Git & GitHub<br><br>- Python<br><br>🔹 What I work on:<br>- Backend API development<br>- Authentication & authorization<br>- Database design and integration<br>- Clean and maintainable backend code<br><br>Currently focusing on improving my backend skills and building<br>real-world projects.<br>
+Hi 👋 I’m Aniket Sinha<br><br>Backend Developer with hands-on experience in building secure and scalable<br>REST APIs using Node.js and Spring Boot.<br><br>🔹 Tech Stack:<br>- Node.js, Express.js<br>- Java, Spring Boot<br>- REST APIs<br>- MongoDB, MySQL<br>- JWT Authentication<br>- Git & GitHub<br>- Python<br><br>🔹 What I work on:<br>- Backend API development<br>- Authentication & authorization<br>- Database design and integration<br>- Clean and maintainable backend code<br><br>Currently focusing on improving my backend skills and building<br>real-world projects.<br>
 
 
 ## 🌐 Socials:
